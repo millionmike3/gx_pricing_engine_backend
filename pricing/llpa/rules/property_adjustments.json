@@ -1,0 +1,5 @@
+[
+  { "property_type": "SFR", "adjustment_bps": 25 },
+  { "property_type": "CONDO", "adjustment_bps": 50 },
+  { "property_type": "MULTI", "adjustment_bps": 75 }
+]

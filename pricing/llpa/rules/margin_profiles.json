@@ -1,0 +1,6 @@
+{
+  "STANDARD": {
+    "base_margin_bps": 85,
+    "risk_multiplier": 1.2
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "credit_min": 760, "credit_max": 850, "adjustment_bps": -12 },
+  { "credit_min": 720, "credit_max": 759, "adjustment_bps": 0 },
+  { "credit_min": 680, "credit_max": 719, "adjustment_bps": 25 },
+  { "credit_min": 640, "credit_max": 679, "adjustment_bps": 50 },
+  { "credit_min": 580, "credit_max": 639, "adjustment_bps": 100 }
+]

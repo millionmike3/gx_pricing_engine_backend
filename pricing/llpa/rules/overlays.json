@@ -1,0 +1,4 @@
+[
+  { "condition": "HIGH_VOLATILITY", "adjustment_bps": 20 },
+  { "condition": "RECESSION_RISK", "adjustment_bps": 25 }
+]

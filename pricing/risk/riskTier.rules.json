@@ -1,0 +1,32 @@
+[
+  {
+    "tier": "A",
+    "min_score": 760,
+    "max_score": 850,
+    "risk_premium_bps": 0
+  },
+  {
+    "tier": "B",
+    "min_score": 720,
+    "max_score": 759,
+    "risk_premium_bps": 12
+  },
+  {
+    "tier": "C",
+    "min_score": 680,
+    "max_score": 719,
+    "risk_premium_bps": 28
+  },
+  {
+    "tier": "D",
+    "min_score": 640,
+    "max_score": 679,
+    "risk_premium_bps": 55
+  },
+  {
+    "tier": "E",
+    "min_score": 580,
+    "max_score": 639,
+    "risk_premium_bps": 95
+  }
+]

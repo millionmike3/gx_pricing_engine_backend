@@ -1,0 +1,28 @@
+[
+  {
+    "investor": "BAYVIEW",
+    "base_margin_bps": 40,
+    "execution_curve_bps": {
+      "30Y_FIXED": -12,
+      "15Y_FIXED": -8,
+      "5_1_ARM": -5
+    },
+    "overlays_bps": {
+      "HIGH_VOLATILITY": 10,
+      "RECESSION_RISK": 15
+    }
+  },
+  {
+    "investor": "AXA",
+    "base_margin_bps": 55,
+    "execution_curve_bps": {
+      "30Y_FIXED": -15,
+      "15Y_FIXED": -10,
+      "5_1_ARM": -7
+    },
+    "overlays_bps": {
+      "HIGH_VOLATILITY": 12,
+      "RECESSION_RISK": 18
+    }
+  }
+]

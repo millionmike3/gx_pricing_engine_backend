@@ -1,0 +1,5 @@
+[
+  { "lending_type": "PURCHASE", "adjustment_bps": 0 },
+  { "lending_type": "REFI_RATE_TERM", "adjustment_bps": 10 },
+  { "lending_type": "REFI_CASH_OUT", "adjustment_bps": 45 }
+]
